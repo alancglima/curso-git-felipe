@@ -1,0 +1,11 @@
+[33mcommit 72ae98a3bce12f7b279d76132885b651f3896778[m[33m ([m[1;36mHEAD -> [m[1;32mcadastro-cliente[m[33m)[m
+Author: alancglima <alanglima@gmail.com>
+Date:   Sun Mar 6 16:24:55 2022 -0300
+
+    cadastro de clientes adicionado
+
+[33mcommit 7e211265786c9a64faf40aaad384e2624ea8a37b[m[33m ([m[1;32mmaster[m[33m, [m[1;32mdevelopment[m[33m)[m
+Author: alancglima <alanglima@gmail.com>
+Date:   Sun Mar 6 16:08:38 2022 -0300
+
+    primeiro commit com index.htmal e script.js
